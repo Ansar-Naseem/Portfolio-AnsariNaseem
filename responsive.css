@@ -169,37 +169,59 @@
 
 @media (max-width:400px) {
 
+    .logo{
+        font-size: 20px;
+    }
+
+      .cvbtn {
+        font-size: 10px;
+    padding: 5px;
+font-weight: 300;
+    }
+
+    .navbar-toggle{
+        padding: 6px;
+    }
+
+    .hero-container{
+         padding: 1rem 7%;
+    }
+
+    .hero-image img{
+        height: 136px;
+        width: 125px;
+    }
+
     .hero-content h3 {
-        font-size: 1rem;
+         font-size: 1.9rem;
 
     }
 
     .hero-content h1 {
-        font-size: 1.2rem;
-        font-weight: 300;
+       font-size: 2.2rem;
+        font-weight: 500;
     }
 
     .hero-content h2 {
-        font-size: 0.8rem;
+        font-size: 1.2rem;
     }
 
     .hero-content p {
-        font-size: 0.7rem;
+        font-size: 0.9rem;
+    }
+
+    .social-icons a {
+         font-size: 3rem;
     }
 
     .hero-content .hero-btn .btn {
-        width: 7rem;
-        padding: 0.2rem 0;
-        font-size: 0.8rem;
+        width: 10rem;
+        padding: 0.8rem 0;
+        font-size: 1.5rem;
     }
 
     footer {
         font-size: 19px;
-    }
-
-    .hero-image img {
-        height: 120px;
-        width: 145px;
     }
 
     main .boxes {
